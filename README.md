@@ -1,2 +1,2 @@
 # URI Respostas
-É um repositório de problemas de programação.
+URI Online Judge é um repositório de problemas de programação.
